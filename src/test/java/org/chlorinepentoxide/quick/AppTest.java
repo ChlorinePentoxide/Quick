@@ -1,4 +1,4 @@
-package org.chlorinelabs.quick;
+package org.chlorinepentoxide.quick;
 
 import static org.junit.Assert.assertTrue;
 
